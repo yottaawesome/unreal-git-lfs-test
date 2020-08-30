@@ -1,6 +1,6 @@
 # Unreal Git LFS test repo
 
-This repo is just for testing out hosting an Unreal Engine project on Git with Git LFS enabled and a template project created from the Unreal Editor. This repo is based on Oded Erell's [blog post](https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/) on using Unreal with Git and Git LFS. The steps I've followed are mostly the same, but I've edited the `.gitignore` file to include `_BuiltData.uasset` files.
+This repo is just for testing out hosting an Unreal Engine project on Git with Git LFS enabled and a template project created from the Unreal Editor. This repo is based on Oded Erell's [blog post](https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/) on using Unreal with Git and Git LFS. The steps I've followed are mostly the same, but I've edited the `.gitignore` file to include the optional `_BuiltData.uasset` files. See [here](https://community.gamedev.tv/t/failed-to-load-builtdata/119307).
 
 ## Basic steps
 
