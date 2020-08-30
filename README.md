@@ -9,3 +9,9 @@ This repo is just for testing out hosting an Unreal Engine project on Git with G
 3. Clone the repo and initialise Git LFS: `git lfs install`.
 4. Track binary files for LFS compression by adding them with the `git lfs track *.{file_extension}`.
 5. Add, commit, and push changes as normal. Note that LFS uses is subject to GitHub's data plans, and you may need to [buy one](https://github.com/account/billing/data/upgrade?packs=1) if you're intending on using GitHub for your Unreal work.
+
+## Additional resources
+
+* [UE4GitPlugin](https://github.com/ProjectBorealis/UE4GitPlugin)
+* [UE4 Community Wiki](https://ue4community.wiki/)
+* [UE4 Examples](https://github.com/drichardson/UE4Examples)
